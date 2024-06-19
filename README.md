@@ -5,5 +5,5 @@ A machine learning project that accurately classifies text as either French or S
 - Classifies single words as either French or Spanish.
 - Built using a soft SVM linear classifier.
 - Utilizes a machine learning model trained on a dataset of French and Spanish words.
-- Achieves high accuracy in classification with relatively basic features.
-- Custom CountVectorizer to create features for the model
+- Achieves high accuracy in classification with relatively basic features (One-hot encoding, CountVectorizer).
+- Custom CountVectorizer to create features for the model.
